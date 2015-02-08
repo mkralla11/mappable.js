@@ -1,8 +1,18 @@
 # mappable.js
 
-A JQuery plugin that dynamically resizes image map areas based on the image size and their respective coordinates. 
+A JQuery plugin that dynamically resizes image map areas based on the image size and their respective coordinates. This plugin is a super light-weight, yet useful utility.
 
 Also sets data attributes on each area regarding their new offsetTop, offsetRight, offsetBottom, offsetLeft, width, and height.
+
+## Installation
+
+with bower, type in your terminal:
+```
+bower install mappable
+```
+
+without bower, simply copy and paste the mappable.js file into your project.
+
 
 ## Usage
 
