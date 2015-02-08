@@ -1,3 +1,11 @@
+/* ========================================================================
+ * mkralla: mappable.js v0.0.0
+ * http://github.com/mkralla11/mappable.js
+ * Author: Michael Khirallah
+ * ========================================================================
+ * Copyright 2014 MKralla Productions
+ * MIT License
+ */
 ;(function($, undefined){
   $.fn.mappable = function(options){
     this.each(function() {
