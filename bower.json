@@ -1,0 +1,30 @@
+{
+  "name": "mappable",
+  "main": "mappable.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mkralla11/mappable.js",
+  "authors": [
+    "mkralla11 <Mike.MKrallaProductions@gmail.com>"
+  ],
+  "description": "A JQuery plugin that dynamically resizes image map areas based on the image size and their respective coordinates.",
+  "keywords": [
+    "javascript",
+    "jQuery",
+    "map",
+    "image map",
+    "map tag",
+    "area tag",
+    "dynamic resize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">1.9.1"
+  }
+}
